@@ -47,7 +47,7 @@ Chroma-Vektordatenbank speichern → `ConversationalRetrievalChain` →
 Whisper-Transkription → ElevenLabs-Sprachausgabe) stammt aus einem
 Udemy-Kursbeispiel. Ich habe es genutzt, um die komplette RAG-Pipeline
 Schritt für Schritt zu verstehen, und anschließend um die unten
-beschriebenen eigenen Funktionen und Fehlerbehebungen erweitert.
+beschriebenen eigenen Funktionen erweitert.
 
 ## Eigene Erweiterungen
 
@@ -100,4 +100,8 @@ beschriebenen eigenen Funktionen und Fehlerbehebungen erweitert.
 3. Per Mikrofon aufnehmen (oder Audiodatei hochladen), auf
    "Process Recording" klicken – Frage wird transkribiert, per RAG
    beantwortet und als Sprache ausgegeben.
+
+## Autor
+
+Marcel Ritter Buisan
 
