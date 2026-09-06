@@ -49,7 +49,7 @@ Udemy-Kursbeispiel. Ich habe es genutzt, um die komplette RAG-Pipeline
 Schritt für Schritt zu verstehen, und anschließend um die unten
 beschriebenen eigenen Funktionen und Fehlerbehebungen erweitert.
 
-## Eigene Erweiterungen und behobene Fehler
+## Eigene Erweiterungen
 
 <details>
 <summary><strong>Neue Funktionen</strong> (zum Aufklappen)</summary>
